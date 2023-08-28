@@ -5,5 +5,5 @@ metadata:
     cnrm.cloud.google.com/project-id: datastream-web-394014
   labels:
     env: test
-    test: true
+    test: test
   name: two-brad-two-smelly
