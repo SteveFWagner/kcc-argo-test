@@ -6,4 +6,4 @@ metadata:
   labels:
     env: test
     test: test
-  name: two-brad-two-smelly
+  name: kcc-argo-test
