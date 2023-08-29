@@ -7,5 +7,3 @@ metadata:
     env: test
     managed-by-cnrm: "true"
   name: brad-smells
-spec:
-  resourceID: brad-smells
